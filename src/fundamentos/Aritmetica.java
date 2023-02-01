@@ -5,14 +5,15 @@ package fundamentos;
 public class Aritmetica {
 
     public static void main(String[] args) {
-    int numb1 ;
+    int numb1 = 8 + 9 + 7;
     int numb2 = 4 + 5 + 6;
-   // int MediaMedia =  numb1 / 3;
+    int Media1 =  numb1 / 3;
+    int Media2 = numb2 / 3;
+    int mediaMedia = Media1 + Media2 / 2;
+    System.out.println("primeira media "+ Media1);
+        System.out.println("segunda media  "+ Media2);
 
-   // System.out.println("segunda media "+ numb2 / 3);
- //   System.out.println("media media "+ MediaMedia);
-     numb1 = 8 + 9 + 7 / 3 ;
-        System.out.println("media " + numb1 );
+        System.out.println("media " + mediaMedia);
     }
 
 
