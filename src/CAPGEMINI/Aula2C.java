@@ -13,7 +13,7 @@ public class Aula2C {
 			mult = n1 * n2;
 			div = n1 / n2;
 			
-			System.out.println("a soma é: " + soma +"a subtração é: "+subtracao+"a multiplicação é: "+mult+ "a divisão é: "+div);
+			System.out.println("a soma é:"/n + soma +"a subtração é: "+subtracao+"a multiplicação é: "+mult+ "a divisão é: "+div);
 		}
  
 }
